@@ -8,7 +8,7 @@ DuckPlot is an open-source JavaScript library that allows you to quickly generat
 
 This library is actively being developed, and does not fully support all
 Observable Plot features. However, we believe it's helpful for many common use
-cases and are actively adding feature support (see [Contrubuting](#Contributing)).
+cases and are actively adding feature support (see [Contributing](#Contributing)).
 
 ## Documentation
 
